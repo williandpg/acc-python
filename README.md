@@ -1,2 +1,2 @@
 # acc-python
-Aceleracao Python
+Aceleracao Python.
